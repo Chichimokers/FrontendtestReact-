@@ -1,0 +1,28 @@
+.margen{
+  margin-top: 120px;
+}
+.separar{
+  margin-left : 3px;
+}
+.principaldiv{
+
+margin-top: 90px;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.inputclass{
+    margin-top: 10px;
+
+  
+}
+.labels-camps{
+
+  margin-right: 40px;
+  display: block;
+ 
+}
+.inputstyle{
+    border: 10px;
+    background: rgb(233, 227, 227)
+
+}
