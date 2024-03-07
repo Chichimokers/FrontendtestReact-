@@ -6,8 +6,12 @@ class HomeComponent extends React.Component{
         return(
            
             <React.Fragment>
-            <div>
-                <h1>Home page you are Login</h1>
+            <div id="head">
+                <nav></nav>
+            </div>
+            
+            <div id="post-place">
+
             </div>
             </React.Fragment>
           

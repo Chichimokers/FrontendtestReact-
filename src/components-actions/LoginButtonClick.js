@@ -2,13 +2,17 @@ import LoginFunc from "../petitions/login-func"
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ErrorLabel  from "../components/Errorlabel"
+import HomeComponent from "../components/Home/HomeComponent"
+
+
+
 async function LoginButtonClick (username,password) {
     try{
     const loginsucefully = await LoginFunc(username,password)
     
     if(loginsucefully){
         ReactDOM.render(<ErrorLabel text="Login complete" type={true} login={true}/>,document.getElementById("errorlabel-place"))
-        
+        ReactDOM.render(<HomeComponent/>,document.getElementById('root'))
         console.log("Sucefully login")
     }else{
       

@@ -7,6 +7,8 @@ import SignIn from '../components-actions/SignInButtonClick';
 
 class Buttoncomponent extends React.Component{
      handleClickButtonLogin = () => {
+
+        
     const emaildiv = document.getElementById("email-position")
     const emailnode = emaildiv.getRootNode()
     const emailinput = emailnode.getElementById("email-div")
@@ -33,6 +35,10 @@ class Buttoncomponent extends React.Component{
 
     }
     addemailforregister= ()=>{
+
+
+
+     
     const emaildiv = document.getElementById("email-position")
     const emailnode = emaildiv.getRootNode()
     const emailinput = emailnode.getElementById("email-div")
@@ -43,6 +49,7 @@ class Buttoncomponent extends React.Component{
          ReactDOM.render(<EmailComponent/>,document.getElementById("email-position"))
          return;
     } 
+
     const emailvaluae = emailinput.getRootNode().getElementById("email").value
 
     const username= document.getElementById("User-div")

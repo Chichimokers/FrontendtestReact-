@@ -1,0 +1,15 @@
+TensorFlow: una biblioteca de aprendizaje automático de código abierto desarrollada por Google para construir modelos de redes neuronales.
+
+PyTorch: una biblioteca de aprendizaje automático de código abierto desarrollada por Facebook para construir modelos de redes neuronales.
+
+NumPy: una biblioteca de procesamiento de matrices de código abierto para Python que proporciona funciones para realizar operaciones matemáticas y científicas.
+
+Pandas: una biblioteca de análisis de datos de código abierto para Python que proporciona funciones para manipular y analizar datos.
+
+Scikit-learn: una biblioteca de aprendizaje automático de código abierto para Python que proporciona funciones para realizar tareas de clasificación, regresión y agrupamiento.
+
+Qt: una biblioteca de desarrollo de interfaces gráficas de usuario de código abierto y propietaria para C++.
+
+Boost: una biblioteca de código abierto para C++ que proporciona funciones para realizar tareas comunes de programación, como estructuras de datos, algoritmos y concurrencia.
+
+SDL: una biblioteca de desarrollo de juegos de código abierto para C++ que proporciona funciones para crear juegos 

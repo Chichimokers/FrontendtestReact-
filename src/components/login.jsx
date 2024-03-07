@@ -13,7 +13,7 @@ class  LoginComponent extends React.Component{
         <div id="logincontainer ">
             
             <div>
-            <h1 className="text-2xl text-gray-700 font-bold mb-5 flex items-center justify-center text-center ">
+            <h1 className="text-2xl  text-white font-bold mb-9  flex items-center justify-center text-center ">
                 Questions Forum</h1>
             </div> 
 
@@ -24,7 +24,7 @@ class  LoginComponent extends React.Component{
             <div className=" margen flex items-center justify-center text-center " >
 
 
-            <form id ="login" className=" bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4" >
+            <form id ="login" className="bg-gray-900 text-gray-300 p-4 shadow-md rounded-lg rounded-3xl px-8 pt-6 pb-8 mb-4" >
              
 
                 <UsernameComponent/>

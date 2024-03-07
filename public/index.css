@@ -1,6 +1,11 @@
 .margen{
   margin-top: 120px;
 }
+body {
+  background-image: url('I\ Love\ Math\ HD\ Wallpaper\ 1920x1080\ ID\ 23425\ -\ WallpaperVortex_com.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .separar{
   margin-left : 3px;
 }
